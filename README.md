@@ -34,22 +34,6 @@ This project was built by following a React tutorial and then extending it with 
 
 ---
 
-## 📂 Project Structure
-
-```id="code1"
-src/
-│
-├── components/
-│   ├── MovieCard.jsx
-│   ├── SearchBar.jsx
-│
-├── App.jsx
-├── App.css
-├── index.js
-```
-
----
-
 ## 🧠 What I Learned
 
 * How to fetch data from APIs in React using `useEffect`
